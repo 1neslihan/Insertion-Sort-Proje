@@ -1,9 +1,8 @@
 # Insertion Sort Proje
----
 
-###Dizi [ 22, 27, 16, 2, 18, 6 ]
+### Dizi [ 22, 27, 16, 2, 18, 6 ]
 
-## *Yukarıda verilen dizinin insertion sort'a göre aşmalarını yazınız.*
+## *Yukarıda verilen dizinin insertion sort'a göre aşamalarını yazınız.*
 
 * [ **22**, 27, 16, **2**, 18, 6 ] 
 * [ <span style="color:red">2</span>, **27**, 16, 22, 18, **6** ]
@@ -32,7 +31,7 @@ Sıralı dizide 18, 4. elemandır dizide 6 eleman bulunduğu için 18 Average Ca
 
 ### Dizi [ 7, 3, 5, 8, 2, 9, 4, 15, 6 ]
 
-!!! Not *Yukarıdaki dizinin insertion sort algoritmasına göre ilk 4 adımını yazınız.*
+### *Yukarıdaki dizinin insertion sort algoritmasına göre ilk 4 adımını yazınız.*
 
 * [ **7**, 3, 5, 8, **2**, 9, 4, 15, 6 ]
 * [ <span style="color:red">2</span>, **3**, 5, 8, 7, 9, 4, 15, 6 ]
