@@ -39,4 +39,7 @@ Sıralı dizide 18, 4. elemandır dizide 6 eleman bulunduğu için 18 Average Ca
 * [ <span style="color:red">2</span>, <span style="color:red">3</span>, <span style="color:red">4</span>, **8**, 7, 9, **5**, 15, 6 ]
 * [ <span style="color:red">2</span>, <span style="color:red">3</span>, <span style="color:red">4</span>, <span style="color:red">5</span>, 7, 9, 8, 15, 6 ]
 
+### Patika dev'de bana ulaşmak için
+[Buraya tıklayın](https://app.patika.dev/nes)
+
 
